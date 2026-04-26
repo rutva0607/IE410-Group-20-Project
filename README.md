@@ -91,6 +91,3 @@ These projects demonstrate key robotics concepts such as motion planning, percep
 ## 📽️ Demo
 https://drive.google.com/file/d/16HcYptg1CsUchG96w8WwNRA_WpNSMFn4/view?usp=drivesdk
 
----
-
-## 📁 Repository Structure
